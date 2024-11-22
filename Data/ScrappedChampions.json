@@ -1,0 +1,1430 @@
+[
+  {
+    "Name": "Aatrox",
+    "Competences": [
+      "Posture Du Massacreur",
+      "Épée Des Darkin",
+      "Chaînes Infernales",
+      "Ruée Obscure",
+      "Fossoyeur Des Mondes"
+    ],
+    "Role": 16,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Ahri",
+    "Competences": [
+      "Vol Essentiel",
+      "Orbe D'illusion",
+      "Lucioles",
+      "Charme",
+      "Assaut Spirituel"
+    ],
+    "Role": 3,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Akali",
+    "Competences": [
+      "Marque D'assassin",
+      "Vague De Kunais",
+      "Linceul Nébuleux",
+      "Lancer Acrobatique",
+      "Maîtrise Absolue"
+    ],
+    "Role": 2,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Akshan",
+    "Competences": [
+      "Fourberie",
+      "Vengerang",
+      "Cavalier Seul",
+      "Envolée Héroïque",
+      "Bien Mérité\u00A0!"
+    ],
+    "Role": 6,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Alistar",
+    "Competences": [
+      "Cri Triomphant",
+      "Atomisation",
+      "Coup De Tête",
+      "Piétinement",
+      "Volonté De Fer"
+    ],
+    "Role": 40,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Amumu",
+    "Competences": [
+      "Toucher Maudit",
+      "Jet De Bandelette",
+      "Désespoir",
+      "Colère",
+      "Malédiction D'amumu"
+    ],
+    "Role": 8,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Annie",
+    "Competences": [
+      "Pyromanie",
+      "Désintégration",
+      "Incinération",
+      "Bouclier En Fusion",
+      "Invocation\u00A0: Tibbers"
+    ],
+    "Role": 33,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Ashe",
+    "Competences": [
+      "Tir Givrant",
+      "Concentration Du Ranger",
+      "Salve",
+      "Rapace",
+      "Flèche De Cristal Enchantée"
+    ],
+    "Role": 36,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Aurelion Sol",
+    "Competences": [
+      "Créateur Cosmique",
+      "Souffle De Lumière",
+      "Vol Astral",
+      "Trou Noir",
+      "Étoile Finale/Apocalypse"
+    ],
+    "Role": 1,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Blitzcrank",
+    "Competences": [
+      "Barrière De Mana",
+      "Grappin Propulsé",
+      "Surcharge",
+      "Poing D'acier",
+      "Champ De Stase"
+    ],
+    "Role": 40,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Brand",
+    "Competences": [
+      "Flammes",
+      "Brûlure",
+      "Colonne De Flammes",
+      "Conflagration",
+      "Pyrolyse"
+    ],
+    "Role": 1,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Braum",
+    "Competences": [
+      "Coups Étourdissants",
+      "Morsure De L'hiver",
+      "Bouclier Humain",
+      "Incassable",
+      "Fissure Glaciale"
+    ],
+    "Role": 40,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Caitlyn",
+    "Competences": [
+      "Headshot",
+      "Piltover Peacemaker",
+      "Yordle Snap Trap",
+      "90 Caliber Net",
+      "Ace In The Hole"
+    ],
+    "Role": 4,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Camille",
+    "Competences": [
+      "Protection Modulable",
+      "Protocole De Précision",
+      "Balayage Tactique",
+      "Grappin",
+      "Ultimatum Hextech"
+    ],
+    "Role": 16,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Corki",
+    "Competences": [
+      "Munitions Hextech",
+      "Bombe Au Phosphore",
+      "Valkyrie",
+      "Gatling",
+      "Barrage De Projectiles"
+    ],
+    "Role": 4,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Darius",
+    "Competences": [
+      "Plaie Béante",
+      "Décimation",
+      "Estropiaison",
+      "Crampon",
+      "Guillotine Noxienne"
+    ],
+    "Role": 16,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Diana",
+    "Competences": [
+      "Lame Sélène",
+      "Croissant Lunaire",
+      "Corps Célestes",
+      "Rush Lunaire",
+      "Attraction Lunaire"
+    ],
+    "Role": 17,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Dr. Mundo",
+    "Competences": [
+      "Il Va Où Il Veut",
+      "Scie Souillée",
+      "Défibrillateur",
+      "Contusion",
+      "Dosage Maximal"
+    ],
+    "Role": 24,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Draven",
+    "Competences": [
+      "League Of Draven",
+      "Hache Tournoyante",
+      "Pulsion Sanguinaire",
+      "Division",
+      "Volée Mortelle"
+    ],
+    "Role": 4,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Ekko",
+    "Competences": [
+      "Rézonance",
+      "Rétrobang",
+      "Convergence Parallèle",
+      "Rush Déphasé",
+      "Chronofracture"
+    ],
+    "Role": 3,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Evelynn",
+    "Competences": [
+      "Ombre Démoniaque",
+      "Piques De Haine",
+      "Séduction",
+      "Coup De Fouet",
+      "Faiseuse De Veuves"
+    ],
+    "Role": 2,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Ezreal",
+    "Competences": [
+      "Force Grandissante",
+      "Tir Mystique",
+      "Flux Essentiel",
+      "Transfert Arcanique",
+      "Arc Térébrant"
+    ],
+    "Role": 5,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Fiddlesticks",
+    "Competences": [
+      "Épouvantable Épouvantail",
+      "Terreur",
+      "Moisson Fructueuse",
+      "Fauchaison",
+      "Rafale De Corbeaux"
+    ],
+    "Role": 1,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Fiora",
+    "Competences": [
+      "Danse De La Duelliste",
+      "Fente",
+      "Riposte",
+      "Botte Secrète",
+      "Défi Suprême"
+    ],
+    "Role": 18,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Fizz",
+    "Competences": [
+      "Trident Marin",
+      "Frappe De L'oursin",
+      "Fracas Des Vagues",
+      "Joueur/Filou",
+      "Pêche Au Gros"
+    ],
+    "Role": 3,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Galio",
+    "Competences": [
+      "Frappe Colossale",
+      "Vents De Guerre",
+      "Bouclier De Durand",
+      "Horion De La Justice",
+      "Entrée Héroïque"
+    ],
+    "Role": 9,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Garen",
+    "Competences": [
+      "Persévérance",
+      "Coup Décisif",
+      "Courage",
+      "Jugement",
+      "Justice De Demacia"
+    ],
+    "Role": 24,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Gragas",
+    "Competences": [
+      "Tournée",
+      "Fût Roulant",
+      "Rage D'ivrogne",
+      "Coup De Bidon",
+      "Fût Explosif"
+    ],
+    "Role": 9,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Graves",
+    "Competences": [
+      "Nouvelle Destinée",
+      "Terminus",
+      "Écran De Fumée",
+      "Ruée Vers L'or",
+      "Dégâts Collatéraux"
+    ],
+    "Role": 20,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Gwen",
+    "Competences": [
+      "Mille Coupures",
+      "Tchac, Tchac\u00A0!",
+      "Brume Sacrée",
+      "Élan Incisif",
+      "Piqûre"
+    ],
+    "Role": 16,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Hecarim",
+    "Competences": [
+      "Galop",
+      "Carnage",
+      "Essence De La Peur",
+      "Charge Dévastatrice",
+      "Légion Des Ombres"
+    ],
+    "Role": 16,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Heimerdinger",
+    "Competences": [
+      "Affinité Hextech",
+      "Tourelle H-28 G Évolution",
+      "Micro-Roquettes Hextech",
+      "Grenade Électro-Tempête Ch-2",
+      "Amélioration\u00A0!"
+    ],
+    "Role": 33,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Irelia",
+    "Competences": [
+      "Ferveur Ionienne",
+      "Rush Fatal",
+      "Danse De Défi",
+      "Duo Parfait",
+      "Pointe De L'avant-Garde"
+    ],
+    "Role": 18,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Janna",
+    "Competences": [
+      "Zéphyr",
+      "Vent Hurlant",
+      "Alizé",
+      "Œil Du Cyclone",
+      "Mousson"
+    ],
+    "Role": 33,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Jarvan Iv",
+    "Competences": [
+      "Cadence Martiale",
+      "Frappe Du Dragon",
+      "Égide Dorée",
+      "Étendard Demacien",
+      "Cataclysme"
+    ],
+    "Role": 24,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Jax",
+    "Competences": [
+      "Acharnement",
+      "Frappe Bondissante",
+      "Élargissement",
+      "Contre-Attaque",
+      "Force Du Maître"
+    ],
+    "Role": 16,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Jayce",
+    "Competences": [
+      "Capaciteur Hextech",
+      "Direction Le Ciel\u00A0! / Orbe Électrique",
+      "Champ Électrique / Hypercharge",
+      "Coup Foudroyant / Portail D'accélération",
+      "Canon Mercury / Marteau Mercury"
+    ],
+    "Role": 20,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Jhin",
+    "Competences": [
+      "Murmure",
+      "Grenade Dansante",
+      "Floraison Mortelle",
+      "Public Captif",
+      "Rappel De Rideau"
+    ],
+    "Role": 5,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Jinx",
+    "Competences": [
+      "Enthousiasme\u00A0!",
+      "Flip Flap\u00A0!",
+      "Zap\u00A0!",
+      "Pyromâcheurs\u00A0!",
+      "Super Roquette De La Mort\u00A0!"
+    ],
+    "Role": 4,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Kai'sa",
+    "Competences": [
+      "Seconde Peau",
+      "Pluie D'icathia",
+      "Rayon Du Néant",
+      "Surpresseur",
+      "Instinct Meurtrier"
+    ],
+    "Role": 6,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Kalista",
+    "Competences": [
+      "Maintien Martial",
+      "Perforation",
+      "Sentinelle",
+      "Extirpation",
+      "Appel Du Destin"
+    ],
+    "Role": 4,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Karma",
+    "Competences": [
+      "Mantra",
+      "Flamme Intérieure",
+      "Volonté Concentrée",
+      "Exaltation",
+      "Étreinte Transcendante"
+    ],
+    "Role": 33,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Kassadin",
+    "Competences": [
+      "Pierre Du Néant",
+      "Orbe Du Néant",
+      "Lame Éthérée",
+      "Pulsation",
+      "Fissure"
+    ],
+    "Role": 3,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Katarina",
+    "Competences": [
+      "Voracité",
+      "Lame Rebondissante",
+      "Préparation",
+      "Shunpo",
+      "Lotus Mortel"
+    ],
+    "Role": 3,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Kayle",
+    "Competences": [
+      "Ascension Divine",
+      "Incandescence",
+      "Bénédiction Céleste",
+      "Lame De Feu Stellaire",
+      "Jugement Divin"
+    ],
+    "Role": 48,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Kayn",
+    "Competences": [
+      "Faux Des Darkin",
+      "Moisson Cruelle",
+      "Entaille Sombre",
+      "Passe-Muraille",
+      "Intrusion Obscure"
+    ],
+    "Role": 16,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Kennen",
+    "Competences": [
+      "Marque De Tempête",
+      "Shuriken Foudroyant",
+      "Surtension",
+      "Rush Foudroyant",
+      "Maelström"
+    ],
+    "Role": 5,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Kha'zix",
+    "Competences": [
+      "Menace Invisible",
+      "Goût De La Peur",
+      "Pique Du Néant",
+      "Bond",
+      "Assaut Du Néant"
+    ],
+    "Role": 18,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Kindred",
+    "Competences": [
+      "Marque De Kindred",
+      "Danse Des Flèches",
+      "Frénésie De Loup",
+      "Terreur Mortelle",
+      "Repos D'agneau"
+    ],
+    "Role": 4,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Lee Sin",
+    "Competences": [
+      "Rafale",
+      "Onde Sonore/Coup Résonant",
+      "Rempart",
+      "Trombe/Fracture",
+      "Rage Du Dragon"
+    ],
+    "Role": 18,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Leona",
+    "Competences": [
+      "Rayon De Soleil",
+      "Bouclier De L'aube",
+      "Éclipse",
+      "Lame Du Zénith",
+      "Éruption Solaire"
+    ],
+    "Role": 40,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Lillia",
+    "Competences": [
+      "Bâton Chargé De Rêves",
+      "Frappe Fleurie",
+      "Attention, Désolée\u00A0!",
+      "Graine Tournoyante",
+      "Douce Berceuse"
+    ],
+    "Role": 16,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Lissandra",
+    "Competences": [
+      "Emprise De La Sublimée",
+      "Éclat De Glace",
+      "Cercle De Givre",
+      "Chemin Glacial",
+      "Tombeau Polaire"
+    ],
+    "Role": 1,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Lucian",
+    "Competences": [
+      "Pistolero",
+      "Lumière Perforante",
+      "Flamboiement",
+      "Poursuite Inlassable",
+      "Déluge De Balles"
+    ],
+    "Role": 4,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Lulu",
+    "Competences": [
+      "Pix, Le Compagnon Féérique",
+      "Duo Éclatant",
+      "Fantaisie",
+      "Pix À La Rescousse\u00A0!",
+      "Croissance Prodigieuse"
+    ],
+    "Role": 33,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Lux",
+    "Competences": [
+      "Illumination",
+      "Entrave De Lumière",
+      "Barrière Prismatique",
+      "Anomalie Radieuse",
+      "Éclat Final"
+    ],
+    "Role": 33,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Malphite",
+    "Competences": [
+      "Bouclier De Granit",
+      "Éclat Sismique",
+      "Coup De Tonnerre",
+      "Choc Au Sol",
+      "Force Indomptable"
+    ],
+    "Role": 8,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Maokai",
+    "Competences": [
+      "Sève Magique",
+      "Coup De Ronces",
+      "Croissance Torturée",
+      "Jet D'arbrisseau",
+      "Emprise De La Nature"
+    ],
+    "Role": 8,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Maître Yi",
+    "Competences": [
+      "Coup Double",
+      "Assaut Éclair",
+      "Méditation",
+      "Style Wuju",
+      "Highlander"
+    ],
+    "Role": 18,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Milio",
+    "Competences": [
+      "Tout Feu Tout Flamme",
+      "Ultra Méga Boule De Feu",
+      "Feu De Camp",
+      "Chaud Devant !",
+      "Flammes Vitales"
+    ],
+    "Role": 33,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Miss Fortune",
+    "Competences": [
+      "Cœur Volage",
+      "Doublé",
+      "Fanfaronne",
+      "Pluie De Balles",
+      "Barrage De Plomb"
+    ],
+    "Role": 5,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Mordekaiser",
+    "Competences": [
+      "Vortex De Ténèbres",
+      "Oblitération",
+      "Indestructible",
+      "Emprise Funeste",
+      "Royaume Des Morts"
+    ],
+    "Role": 17,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Morgana",
+    "Competences": [
+      "Siphon D'âme",
+      "Entrave Sombre",
+      "Tourment Ténébreux",
+      "Bouclier Noir",
+      "Chaînes Spirituelles"
+    ],
+    "Role": 33,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Nami",
+    "Competences": [
+      "Déferlantes",
+      "Prison Aqueuse",
+      "Flux Et Reflux",
+      "Bénédiction De L'aquamancienne",
+      "Raz-De-Marée"
+    ],
+    "Role": 33,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Nasus",
+    "Competences": [
+      "Mangeur D'âmes",
+      "Buveuse D'âmes",
+      "Flétrissement",
+      "Esprit Enflammé",
+      "Fureur Des Sables"
+    ],
+    "Role": 24,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Nautilus",
+    "Competences": [
+      "Coup Écrasant",
+      "Abordage",
+      "Colère Du Titan",
+      "Répliques",
+      "Grenade Asm"
+    ],
+    "Role": 40,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Nilah",
+    "Competences": [
+      "Joie Éternelle",
+      "Lame Fluide",
+      "Voile De Liesse",
+      "Torrent",
+      "Apothéose"
+    ],
+    "Role": 16,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Nun Et Willump",
+    "Competences": [
+      "Appel De Freljord",
+      "Voracité",
+      "Boule De Neige Géante\u00A0!",
+      "Rafale De Boules De Neige",
+      "Zéro Absolu"
+    ],
+    "Role": 9,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Olaf",
+    "Competences": [
+      "Rage Du Berzerker",
+      "Déchireuse",
+      "Frappes Vicieuses",
+      "Frappe Sauvage",
+      "Ragnarok"
+    ],
+    "Role": 16,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Orianna",
+    "Competences": [
+      "Remontoir",
+      "Ordre\u00A0: Attaque",
+      "Ordre\u00A0: Dissonance",
+      "Ordre\u00A0: Protection",
+      "Ordre\u00A0: Onde De Choc"
+    ],
+    "Role": 33,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Ornn",
+    "Competences": [
+      "Forgeron Ambulant",
+      "Fracture Magmatique",
+      "Fournaise",
+      "Ruée Ardente",
+      "Appel Du Dieu De La Forge"
+    ],
+    "Role": 8,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Pantheon",
+    "Competences": [
+      "Ardeur Mortelle",
+      "Lance Astrale",
+      "Assaut Martial",
+      "Égide Impénétrable",
+      "Météore"
+    ],
+    "Role": 18,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Pyke",
+    "Competences": [
+      "Don Des Noyés",
+      "Harponnage",
+      "Plongée Spectrale",
+      "Ressac Fantôme",
+      "Exécution Abyssale"
+    ],
+    "Role": 34,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Rakan",
+    "Competences": [
+      "Plumes Enchantées",
+      "Rémige Rayonnante",
+      "Entrée Triomphale",
+      "Valse Guerrière",
+      "Danse Ultime"
+    ],
+    "Role": 40,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Rammus",
+    "Competences": [
+      "Tatou Blindé",
+      "Démolisseur",
+      "Boule Défensive",
+      "Provocation Frénétique",
+      "Frappe Ascendante"
+    ],
+    "Role": 8,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Renekton",
+    "Competences": [
+      "Règne De La Colère",
+      "Destruction Des Faibles",
+      "Prédateur Impitoyable",
+      "Tranche Et Coupe",
+      "Dominus"
+    ],
+    "Role": 16,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Rengar",
+    "Competences": [
+      "Prédateur Invisible",
+      "Esprit Sauvage",
+      "Rugissement",
+      "Bolas",
+      "Chasseur-Né"
+    ],
+    "Role": 2,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Riven",
+    "Competences": [
+      "Lame Runique",
+      "Ailes Brisées",
+      "Décharge De Ki",
+      "Bravoure",
+      "Lame De L'exilée"
+    ],
+    "Role": 18,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Samira",
+    "Competences": [
+      "Élan Téméraire",
+      "Panache",
+      "Tourbillon De Lame",
+      "Charge Sauvage",
+      "Gâchette Infernale"
+    ],
+    "Role": 6,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Senna",
+    "Competences": [
+      "Absolution",
+      "Ombre Perforante",
+      "Dernière Étreinte",
+      "Malédiction De La Brume Noire",
+      "Ténèbres Aveuglantes"
+    ],
+    "Role": 36,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Séraphine",
+    "Competences": [
+      "Présence Sur Scène",
+      "Note Aiguë",
+      "Son Ambiophonique",
+      "Battement",
+      "Bis"
+    ],
+    "Role": 33,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Sett",
+    "Competences": [
+      "Roi De L'arène",
+      "Rogne",
+      "Coup Cathartique",
+      "Casse-Tête",
+      "Le Clou Du Spectacle"
+    ],
+    "Role": 16,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Shen",
+    "Competences": [
+      "Barrière De Ki",
+      "Assaut Crépusculaire",
+      "Refuge Spirituel",
+      "Rush Des Ombres",
+      "Soutien Indéfectible"
+    ],
+    "Role": 40,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Shyvana",
+    "Competences": [
+      "Fureur D'enfant De Dragon",
+      "Morsure Double",
+      "Combustion",
+      "Souffle De Flammes",
+      "Vol Du Dragon"
+    ],
+    "Role": 24,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Singed",
+    "Competences": [
+      "Sillage Toxique",
+      "Piste Empoisonnée",
+      "Attrape-Mouche",
+      "Projection",
+      "Potion De Démence"
+    ],
+    "Role": 9,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Sion",
+    "Competences": [
+      "Gloire Posthume",
+      "Fracas Meurtrier",
+      "Feu Intérieur",
+      "Cri Du Tueur",
+      "Assaut Inarrêtable"
+    ],
+    "Role": 24,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Sivir",
+    "Competences": [
+      "Mille-Pattes",
+      "Lame Boomerang",
+      "Ricochet",
+      "Bouclier Magique",
+      "En Chasse"
+    ],
+    "Role": 4,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Sona",
+    "Competences": [
+      "Accord De Puissance",
+      "Hymne À La Bravoure",
+      "Aria De Persévérance",
+      "Mélodie De Vélocité",
+      "Crescendo"
+    ],
+    "Role": 33,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Soraka",
+    "Competences": [
+      "Salut",
+      "Appel De L'étoile",
+      "Infusion Astrale",
+      "Équinoxe",
+      "Souhait"
+    ],
+    "Role": 33,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Swain",
+    "Competences": [
+      "Nuée De Corbeaux",
+      "Poigne Mortifère",
+      "Œil De L'empire",
+      "Capture",
+      "Incarnation Démoniaque"
+    ],
+    "Role": 9,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Syndra",
+    "Competences": [
+      "Transcendance",
+      "Sphère Noire",
+      "Force De La Volonté",
+      "Dispersion Des Faibles",
+      "Déchaînement De Puissance"
+    ],
+    "Role": 1,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Talon",
+    "Competences": [
+      "Saignée Fatale",
+      "Diplomatie Noxienne",
+      "Ratissage",
+      "Voie De L’Assassin",
+      "Assaut Ténébreux"
+    ],
+    "Role": 2,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Teemo",
+    "Competences": [
+      "Tir Toxique",
+      "Fléchette Aveuglante",
+      "Vélocité",
+      "Guérilla",
+      "Piège Nocif"
+    ],
+    "Role": 5,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Thresh",
+    "Competences": [
+      "Damnation",
+      "Peine Capitale",
+      "Lien Des Ténèbres",
+      "Fauchage",
+      "La Boîte"
+    ],
+    "Role": 8,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Tristana",
+    "Competences": [
+      "Tir De Précision",
+      "Tir Rapide",
+      "Saut Roquette",
+      "Charge Explosive",
+      "Tir À Impact"
+    ],
+    "Role": 4,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Tryndamere",
+    "Competences": [
+      "Vague De Violence",
+      "Soif De Sang",
+      "Moquerie",
+      "Balafre",
+      "Rage Inépuisable"
+    ],
+    "Role": 16,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Twisted Fate",
+    "Competences": [
+      "Dé Pipé",
+      "Atouts",
+      "Bonne Pioche",
+      "Paquet",
+      "Destinée"
+    ],
+    "Role": 5,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Twitch",
+    "Competences": [
+      "Venin Mortel",
+      "Embuscade",
+      "Dose De Venin",
+      "Contamination",
+      "Panique"
+    ],
+    "Role": 4,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Urgot",
+    "Competences": [
+      "Flammes Purificatrices",
+      "Torpille Corrosive",
+      "Géhenne",
+      "Mépris",
+      "Règne De La Terreur"
+    ],
+    "Role": 16,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Varus",
+    "Competences": [
+      "Vengeance Incarnée",
+      "Flèche Perforante",
+      "Carquois Meurtri",
+      "Pluie De Flèches",
+      "Chaîne Corruptrice"
+    ],
+    "Role": 5,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Vayne",
+    "Competences": [
+      "Chasseresse Nocturne",
+      "Roulade",
+      "Carreaux D'argent",
+      "Condamnation",
+      "Combat Ultime"
+    ],
+    "Role": 6,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Veigar",
+    "Competences": [
+      "Pouvoir Maléfique Phénoménal",
+      "Coup Malin",
+      "Matière Noire",
+      "Profanation",
+      "Explosion Primordiale"
+    ],
+    "Role": 1,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Vex",
+    "Competences": [
+      "Malheur Et Désespoir",
+      "Mistral Perdant",
+      "Lâchez-Moi\u00A0!",
+      "Ténèbres Imminentes",
+      "Déferlement D'ombre"
+    ],
+    "Role": 1,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Vi",
+    "Competences": [
+      "Coups Fracassants",
+      "Brise-Coffre",
+      "Bouclier Antichoc",
+      "Force Excessive",
+      "Marteau-Pilon"
+    ],
+    "Role": 16,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Viego",
+    "Competences": [
+      "Assujettissement",
+      "Lame Du Roi Déchu",
+      "Gueule Spectrale",
+      "Chemin Tourmenté",
+      "Cœur Brisé"
+    ],
+    "Role": 2,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Vladimir",
+    "Competences": [
+      "Pacte De Sang",
+      "Transfusion",
+      "Bain De Sang",
+      "Vagues De Sang",
+      "Peste Sanguine"
+    ],
+    "Role": 1,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Volibear",
+    "Competences": [
+      "Tempête Impitoyable",
+      "Coup Fulgurant",
+      "Folie Mutilatrice",
+      "Foudroiement",
+      "Tempête Incarnée"
+    ],
+    "Role": 24,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Warwick",
+    "Competences": [
+      "Soif Inextinguible",
+      "Dents De La Bête",
+      "Traque Sanguinaire",
+      "Hurlement Bestial",
+      "Contrainte Infinie"
+    ],
+    "Role": 16,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Wukong",
+    "Competences": [
+      "Écrasement",
+      "Bâton D'or",
+      "Guerrier Espiègle",
+      "Nimbus",
+      "Cyclone"
+    ],
+    "Role": 24,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Xayah",
+    "Competences": [
+      "Plumes Perçantes",
+      "Dagues Jumelles",
+      "Plumage Mortel",
+      "Appel Des Lames",
+      "Rafale De Plumes"
+    ],
+    "Role": 5,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Xin Zhao",
+    "Competences": [
+      "Détermination",
+      "Frappe Des Trois Serres",
+      "Vent Et Foudre",
+      "Charge Audacieuse",
+      "Garde Circulaire"
+    ],
+    "Role": 24,
+    "Difficulty": 1
+  },
+  {
+    "Name": "Yasuo",
+    "Competences": [
+      "Voie Du Vagabond",
+      "Tempête D'acier",
+      "Mur De Vent",
+      "Cercle Tranchant",
+      "Dernier Soupir"
+    ],
+    "Role": 18,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Yone",
+    "Competences": [
+      "Voie Du Chasseur",
+      "Acier Mortel",
+      "Fendoir Spirituel",
+      "Libération Spirituelle",
+      "Destin Scellé"
+    ],
+    "Role": 2,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Yuumi",
+    "Competences": [
+      "Pas Touche",
+      "Tête Chat-Sseuse",
+      "Félin Pour L'autre\u00A0!",
+      "Zouuu\u00A0!",
+      "Chat-Pitre Final"
+    ],
+    "Role": 33,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Zed",
+    "Competences": [
+      "Mépris Des Faibles",
+      "Shuriken-Rasoir",
+      "Ombre Vivante",
+      "Taillade Des Ombres",
+      "Marque De La Mort"
+    ],
+    "Role": 2,
+    "Difficulty": 4
+  },
+  {
+    "Name": "Zeri",
+    "Competences": [
+      "Batterie Vivante",
+      "Rafale",
+      "Laser Électrocuteur",
+      "Charge Ionique",
+      "Éruption Électrique"
+    ],
+    "Role": 4,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Ziggs",
+    "Competences": [
+      "Mèche Courte",
+      "Bombe Rebondissante",
+      "Charge Explosive",
+      "Mines Hexplosives",
+      "Méga Bombe Infernale"
+    ],
+    "Role": 1,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Zoé",
+    "Competences": [
+      "Plus D'étincelles\u00A0!",
+      "Astro-Pong\u00A0!",
+      "Voleuse De Sorts",
+      "Bulle Soporifique",
+      "Bond Dimensionnel"
+    ],
+    "Role": 1,
+    "Difficulty": 2
+  },
+  {
+    "Name": "Zyra",
+    "Competences": [
+      "Jardin De Ronces",
+      "Épines Funestes",
+      "Croissance Incontrôlée",
+      "Racines Fixatrices",
+      "Ronces Étrangleuses"
+    ],
+    "Role": 1,
+    "Difficulty": 2
+  }
+]

@@ -1,3 +1,5 @@
+namespace ChampionDexNameSpace;
+
 public class SaveCommand :  Command
 {
     public SaveCommand(ChampionDex championdex, string[] arguments) : base(championdex, arguments)
@@ -30,6 +32,7 @@ public class SaveCommand :  Command
             Console.Error.WriteLine("Vous ne pouvez pas réécrire le fichier du ChampionDex Scrappé.");
             return;
         }
-        LesChampions.SaveJson(CheminOuput);
+        ChampionDexDto LesChampionsDto = LesChampions.ToDto();
+        LesChampionsDto.SaveJson(CheminOuput);
     }
 }

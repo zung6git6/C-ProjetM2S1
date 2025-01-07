@@ -1,5 +1,4 @@
-using System;
-using System.Linq;
+namespace ChampionDexNameSpace;
 using System.Globalization;
 using System.Text.RegularExpressions;
 

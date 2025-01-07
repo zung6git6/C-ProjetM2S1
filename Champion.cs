@@ -1,4 +1,4 @@
-using System;
+namespace ChampionDexNameSpace;
 using System.Globalization;
 
 public class Champion
@@ -34,4 +34,16 @@ public class Champion
         return $"Nom : {Name}{Sep}Compétences : {JoinCompetences}{Sep}Rôles : {Role}{Sep}Niveau Difficulté : {Difficulty}";
     }
 
+    public ChampionDto ToDto()
+    {
+        ChampionDto dto = new ChampionDto()
+        {
+            _name = Name,
+            _competences = Competences,
+            _role = Role,
+            _difficulty = Difficulty,
+        };
+
+        return dto;
+    }
 }

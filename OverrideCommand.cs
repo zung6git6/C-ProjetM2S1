@@ -1,3 +1,4 @@
+namespace ChampionDexNameSpace;
 using System.Globalization;
 
 public class OverrideCommand : Command

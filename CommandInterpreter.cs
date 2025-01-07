@@ -1,3 +1,4 @@
+namespace ChampionDexNameSpace;
 public class CommandInterpreter
 {
     public ChampionDex LesChampions {get; private set;}
@@ -36,6 +37,15 @@ public class CommandInterpreter
             case "exit":
                 EndCommand cmdEnd = new EndCommand(LesChampions, args.Skip(1).ToArray());
                 return cmdEnd;
+            case "savetxt":
+                SaveTxtCommand cmdSaveTxt = new SaveTxtCommand(LesChampions, args.Skip(1).ToArray());
+                return cmdSaveTxt;
+            case "loadtxt":
+                LoadTxtCommand cmdLoadTxt = new LoadTxtCommand(LesChampions, args.Skip(1).ToArray());
+                return cmdLoadTxt;
+            case "-h":
+                DocCommand cmdDoc = new DocCommand(LesChampions, args.Skip(1).ToArray());
+                return cmdDoc;
             default:
                 Console.Error.WriteLine("Command Invalide !");
                 return null;

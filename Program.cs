@@ -1,8 +1,4 @@
-﻿using System;
-using HtmlAgilityPack;
-using System.Text.RegularExpressions;
-using System.Globalization;
-using System.Text.Json;
+﻿namespace ChampionDexNameSpace;
 
 public class ChampionsWildRift
 {
@@ -17,7 +13,7 @@ public class ChampionsWildRift
             string[] commandArgs = line.Split("\t", StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
             Console.WriteLine(string.Join(" ", commandArgs));
 
-            if (!line.Contains("\t") && commandArgs[0].ToLower() != "exit")
+            if (!line.Contains("\t") && commandArgs[0].ToLower() != "exit" && commandArgs[0].ToLower() != "-h")
             {
                 Console.Error.WriteLine("Vous avez peut-être oublié que le séparateur doit être la tabulation (Tab) ?");
                 continue;

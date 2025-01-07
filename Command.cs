@@ -1,4 +1,4 @@
-using System;
+namespace ChampionDexNameSpace;
 
 public abstract class Command
 {

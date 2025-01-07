@@ -1,0 +1,119 @@
+Aatrox;Posture Du Massacreur, Épée Des Darkin, Chaînes Infernales, Ruée Obscure, Fossoyeur Des Mondes;COMBATTANT;MODÉRÉE
+Ahri;Vol Essentiel, Orbe D'illusion, Lucioles, Charme, Assaut Spirituel;MAGE, ASSASSIN;MODÉRÉE
+Akali;Marque D'assassin, Vague De Kunais, Linceul Nébuleux, Lancer Acrobatique, Maîtrise Absolue;ASSASSIN;ÉLEVÉE
+Akshan;Fourberie, Vengerang, Cavalier Seul, Envolée Héroïque, Bien Mérité !;ASSASSIN, TIREUR;ÉLEVÉE
+Alistar;Cri Triomphant, Atomisation, Coup De Tête, Piétinement, Volonté De Fer;TANK, SUPPORT;FAIBLE
+Amumu;Toucher Maudit, Jet De Bandelette, Désespoir, Colère, Malédiction D'amumu;TANK;FAIBLE
+Annie;Pyromanie, Désintégration, Incinération, Bouclier En Fusion, Invocation : Tibbers;MAGE, SUPPORT;FAIBLE
+Ashe;Tir Givrant, Concentration Du Ranger, Salve, Rapace, Flèche De Cristal Enchantée;TIREUR, SUPPORT;FAIBLE
+Aurelion Sol;Créateur Cosmique, Souffle De Lumière, Vol Astral, Trou Noir, Étoile Finale/Apocalypse;MAGE;ÉLEVÉE
+Blitzcrank;Barrière De Mana, Grappin Propulsé, Surcharge, Poing D'acier, Champ De Stase;TANK, SUPPORT;FAIBLE
+Brand;Flammes, Brûlure, Colonne De Flammes, Conflagration, Pyrolyse;MAGE;FAIBLE
+Braum;Coups Étourdissants, Morsure De L'hiver, Bouclier Humain, Incassable, Fissure Glaciale;TANK, SUPPORT;MODÉRÉE
+Caitlyn;Headshot, Piltover Peacemaker, Yordle Snap Trap, 90 Caliber Net, Ace In The Hole;TIREUR;FAIBLE
+Camille;Protection Modulable, Protocole De Précision, Balayage Tactique, Grappin, Ultimatum Hextech;COMBATTANT;ÉLEVÉE
+Corki;Munitions Hextech, Bombe Au Phosphore, Valkyrie, Gatling, Barrage De Projectiles;TIREUR;MODÉRÉE
+Darius;Plaie Béante, Décimation, Estropiaison, Crampon, Guillotine Noxienne;COMBATTANT;MODÉRÉE
+Diana;Lame Sélène, Croissant Lunaire, Corps Célestes, Rush Lunaire, Attraction Lunaire;MAGE, COMBATTANT;FAIBLE
+Dr. Mundo;Il Va Où Il Veut, Scie Souillée, Défibrillateur, Contusion, Dosage Maximal;TANK, COMBATTANT;FAIBLE
+Draven;League Of Draven, Hache Tournoyante, Pulsion Sanguinaire, Division, Volée Mortelle;TIREUR;ÉLEVÉE
+Ekko;Rézonance, Rétrobang, Convergence Parallèle, Rush Déphasé, Chronofracture;MAGE, ASSASSIN;ÉLEVÉE
+Evelynn;Ombre Démoniaque, Piques De Haine, Séduction, Coup De Fouet, Faiseuse De Veuves;ASSASSIN;MODÉRÉE
+Ezreal;Force Grandissante, Tir Mystique, Flux Essentiel, Transfert Arcanique, Arc Térébrant;MAGE, TIREUR;MODÉRÉE
+Fiddlesticks;Épouvantable Épouvantail, Terreur, Moisson Fructueuse, Fauchaison, Rafale De Corbeaux;MAGE;ÉLEVÉE
+Fiora;Danse De La Duelliste, Fente, Riposte, Botte Secrète, Défi Suprême;ASSASSIN, COMBATTANT;ÉLEVÉE
+Fizz;Trident Marin, Frappe De L'oursin, Fracas Des Vagues, Joueur/Filou, Pêche Au Gros;MAGE, ASSASSIN;MODÉRÉE
+Galio;Frappe Colossale, Vents De Guerre, Bouclier De Durand, Horion De La Justice, Entrée Héroïque;MAGE, TANK;MODÉRÉE
+Garen;Persévérance, Coup Décisif, Courage, Jugement, Justice De Demacia;TANK, COMBATTANT;FAIBLE
+Gragas;Tournée, Fût Roulant, Rage D'ivrogne, Coup De Bidon, Fût Explosif;MAGE, TANK;MODÉRÉE
+Graves;Nouvelle Destinée, Terminus, Écran De Fumée, Ruée Vers L'or, Dégâts Collatéraux;TIREUR, COMBATTANT;MODÉRÉE
+Gwen;Mille Coupures, Tchac, Tchac !, Brume Sacrée, Élan Incisif, Piqûre;COMBATTANT;MODÉRÉE
+Hecarim;Galop, Carnage, Essence De La Peur, Charge Dévastatrice, Légion Des Ombres;COMBATTANT;MODÉRÉE
+Heimerdinger;Affinité Hextech, Tourelle H-28 G Évolution, Micro-Roquettes Hextech, Grenade Électro-Tempête Ch-2, Amélioration !;MAGE, SUPPORT;ÉLEVÉE
+Irelia;Ferveur Ionienne, Rush Fatal, Danse De Défi, Duo Parfait, Pointe De L'avant-Garde;ASSASSIN, COMBATTANT;ÉLEVÉE
+Janna;Zéphyr, Vent Hurlant, Alizé, Œil Du Cyclone, Mousson;MAGE, SUPPORT;FAIBLE
+Jarvan Iv;Cadence Martiale, Frappe Du Dragon, Égide Dorée, Étendard Demacien, Cataclysme;TANK, COMBATTANT;FAIBLE
+Jax;Acharnement, Frappe Bondissante, Élargissement, Contre-Attaque, Force Du Maître;COMBATTANT;MODÉRÉE
+Jayce;Capaciteur Hextech, Direction Le Ciel ! / Orbe Électrique, Champ Électrique / Hypercharge, Coup Foudroyant / Portail D'accélération, Canon Mercury / Marteau Mercury;TIREUR, COMBATTANT;ÉLEVÉE
+Jhin;Murmure, Grenade Dansante, Floraison Mortelle, Public Captif, Rappel De Rideau;MAGE, TIREUR;MODÉRÉE
+Jinx;Enthousiasme !, Flip Flap !, Zap !, Pyromâcheurs !, Super Roquette De La Mort !;TIREUR;MODÉRÉE
+Kai'sa;Seconde Peau, Pluie D'icathia, Rayon Du Néant, Surpresseur, Instinct Meurtrier;ASSASSIN, TIREUR;MODÉRÉE
+Kalista;Maintien Martial, Perforation, Sentinelle, Extirpation, Appel Du Destin;TIREUR;MODÉRÉE
+Karma;Mantra, Flamme Intérieure, Volonté Concentrée, Exaltation, Étreinte Transcendante;MAGE, SUPPORT;ÉLEVÉE
+Kassadin;Pierre Du Néant, Orbe Du Néant, Lame Éthérée, Pulsation, Fissure;MAGE, ASSASSIN;ÉLEVÉE
+Katarina;Voracité, Lame Rebondissante, Préparation, Shunpo, Lotus Mortel;MAGE, ASSASSIN;ÉLEVÉE
+Kayle;Ascension Divine, Incandescence, Bénédiction Céleste, Lame De Feu Stellaire, Jugement Divin;COMBATTANT, SUPPORT;ÉLEVÉE
+Kayn;Faux Des Darkin, Moisson Cruelle, Entaille Sombre, Passe-Muraille, Intrusion Obscure;COMBATTANT;ÉLEVÉE
+Kennen;Marque De Tempête, Shuriken Foudroyant, Surtension, Rush Foudroyant, Maelström;MAGE, TIREUR;MODÉRÉE
+Kha'zix;Menace Invisible, Goût De La Peur, Pique Du Néant, Bond, Assaut Du Néant;ASSASSIN, COMBATTANT;MODÉRÉE
+Kindred;Marque De Kindred, Danse Des Flèches, Frénésie De Loup, Terreur Mortelle, Repos D'agneau;TIREUR;MODÉRÉE
+Lee Sin;Rafale, Onde Sonore/Coup Résonant, Rempart, Trombe/Fracture, Rage Du Dragon;ASSASSIN, COMBATTANT;MODÉRÉE
+Leona;Rayon De Soleil, Bouclier De L'aube, Éclipse, Lame Du Zénith, Éruption Solaire;TANK, SUPPORT;FAIBLE
+Lillia;Bâton Chargé De Rêves, Frappe Fleurie, Attention, Désolée !, Graine Tournoyante, Douce Berceuse;COMBATTANT;ÉLEVÉE
+Lissandra;Emprise De La Sublimée, Éclat De Glace, Cercle De Givre, Chemin Glacial, Tombeau Polaire;MAGE;MODÉRÉE
+Lucian;Pistolero, Lumière Perforante, Flamboiement, Poursuite Inlassable, Déluge De Balles;TIREUR;ÉLEVÉE
+Lulu;Pix, Le Compagnon Féérique, Duo Éclatant, Fantaisie, Pix À La Rescousse !, Croissance Prodigieuse;MAGE, SUPPORT;MODÉRÉE
+Lux;Illumination, Entrave De Lumière, Barrière Prismatique, Anomalie Radieuse, Éclat Final;MAGE, SUPPORT;FAIBLE
+Malphite;Bouclier De Granit, Éclat Sismique, Coup De Tonnerre, Choc Au Sol, Force Indomptable;TANK;FAIBLE
+Maokai;Sève Magique, Coup De Ronces, Croissance Torturée, Jet D'arbrisseau, Emprise De La Nature;TANK;FAIBLE
+Maître Yi;Coup Double, Assaut Éclair, Méditation, Style Wuju, Highlander;ASSASSIN, COMBATTANT;FAIBLE
+Milio;Tout Feu Tout Flamme, Ultra Méga Boule De Feu, Feu De Camp, Chaud Devant !, Flammes Vitales;MAGE, SUPPORT;MODÉRÉE
+Miss Fortune;Cœur Volage, Doublé, Fanfaronne, Pluie De Balles, Barrage De Plomb;MAGE, TIREUR;FAIBLE
+Mordekaiser;Vortex De Ténèbres, Oblitération, Indestructible, Emprise Funeste, Royaume Des Morts;MAGE, COMBATTANT;MODÉRÉE
+Morgana;Siphon D'âme, Entrave Sombre, Tourment Ténébreux, Bouclier Noir, Chaînes Spirituelles;MAGE, SUPPORT;FAIBLE
+Nami;Déferlantes, Prison Aqueuse, Flux Et Reflux, Bénédiction De L'aquamancienne, Raz-De-Marée;MAGE, SUPPORT;MODÉRÉE
+Nasus;Mangeur D'âmes, Buveuse D'âmes, Flétrissement, Esprit Enflammé, Fureur Des Sables;TANK, COMBATTANT;FAIBLE
+Nautilus;Coup Écrasant, Abordage, Colère Du Titan, Répliques, Grenade Asm;TANK, SUPPORT;MODÉRÉE
+Nilah;Joie Éternelle, Lame Fluide, Voile De Liesse, Torrent, Apothéose;COMBATTANT;ÉLEVÉE
+Nun Et Willump;Appel De Freljord, Voracité, Boule De Neige Géante !, Rafale De Boules De Neige, Zéro Absolu;MAGE, TANK;ÉLEVÉE
+Olaf;Rage Du Berzerker, Déchireuse, Frappes Vicieuses, Frappe Sauvage, Ragnarok;COMBATTANT;MODÉRÉE
+Orianna;Remontoir, Ordre : Attaque, Ordre : Dissonance, Ordre : Protection, Ordre : Onde De Choc;MAGE, SUPPORT;MODÉRÉE
+Ornn;Forgeron Ambulant, Fracture Magmatique, Fournaise, Ruée Ardente, Appel Du Dieu De La Forge;TANK;ÉLEVÉE
+Pantheon;Ardeur Mortelle, Lance Astrale, Assaut Martial, Égide Impénétrable, Météore;ASSASSIN, COMBATTANT;FAIBLE
+Pyke;Don Des Noyés, Harponnage, Plongée Spectrale, Ressac Fantôme, Exécution Abyssale;ASSASSIN, SUPPORT;MODÉRÉE
+Rakan;Plumes Enchantées, Rémige Rayonnante, Entrée Triomphale, Valse Guerrière, Danse Ultime;TANK, SUPPORT;MODÉRÉE
+Rammus;Tatou Blindé, Démolisseur, Boule Défensive, Provocation Frénétique, Frappe Ascendante;TANK;FAIBLE
+Renekton;Règne De La Colère, Destruction Des Faibles, Prédateur Impitoyable, Tranche Et Coupe, Dominus;COMBATTANT;ÉLEVÉE
+Rengar;Prédateur Invisible, Esprit Sauvage, Rugissement, Bolas, Chasseur-Né;ASSASSIN;MODÉRÉE
+Riven;Lame Runique, Ailes Brisées, Décharge De Ki, Bravoure, Lame De L'exilée;ASSASSIN, COMBATTANT;ÉLEVÉE
+Samira;Élan Téméraire, Panache, Tourbillon De Lame, Charge Sauvage, Gâchette Infernale;ASSASSIN, TIREUR;ÉLEVÉE
+Senna;Absolution, Ombre Perforante, Dernière Étreinte, Malédiction De La Brume Noire, Ténèbres Aveuglantes;TIREUR, SUPPORT;ÉLEVÉE
+Séraphine;Présence Sur Scène, Note Aiguë, Son Ambiophonique, Battement, Bis;MAGE, SUPPORT;FAIBLE
+Sett;Roi De L'arène, Rogne, Coup Cathartique, Casse-Tête, Le Clou Du Spectacle;COMBATTANT;FAIBLE
+Shen;Barrière De Ki, Assaut Crépusculaire, Refuge Spirituel, Rush Des Ombres, Soutien Indéfectible;TANK, SUPPORT;ÉLEVÉE
+Shyvana;Fureur D'enfant De Dragon, Morsure Double, Combustion, Souffle De Flammes, Vol Du Dragon;TANK, COMBATTANT;FAIBLE
+Singed;Sillage Toxique, Piste Empoisonnée, Attrape-Mouche, Projection, Potion De Démence;MAGE, TANK;MODÉRÉE
+Sion;Gloire Posthume, Fracas Meurtrier, Feu Intérieur, Cri Du Tueur, Assaut Inarrêtable;TANK, COMBATTANT;ÉLEVÉE
+Sivir;Mille-Pattes, Lame Boomerang, Ricochet, Bouclier Magique, En Chasse;TIREUR;MODÉRÉE
+Sona;Accord De Puissance, Hymne À La Bravoure, Aria De Persévérance, Mélodie De Vélocité, Crescendo;MAGE, SUPPORT;FAIBLE
+Soraka;Salut, Appel De L'étoile, Infusion Astrale, Équinoxe, Souhait;MAGE, SUPPORT;FAIBLE
+Swain;Nuée De Corbeaux, Poigne Mortifère, Œil De L'empire, Capture, Incarnation Démoniaque;MAGE, TANK;ÉLEVÉE
+Syndra;Transcendance, Sphère Noire, Force De La Volonté, Dispersion Des Faibles, Déchaînement De Puissance;MAGE;ÉLEVÉE
+Talon;Saignée Fatale, Diplomatie Noxienne, Ratissage, Voie De L’Assassin, Assaut Ténébreux;ASSASSIN;MODÉRÉE
+Teemo;Tir Toxique, Fléchette Aveuglante, Vélocité, Guérilla, Piège Nocif;MAGE, TIREUR;FAIBLE
+Thresh;Damnation, Peine Capitale, Lien Des Ténèbres, Fauchage, La Boîte;TANK;ÉLEVÉE
+Tristana;Tir De Précision, Tir Rapide, Saut Roquette, Charge Explosive, Tir À Impact;TIREUR;FAIBLE
+Tryndamere;Vague De Violence, Soif De Sang, Moquerie, Balafre, Rage Inépuisable;COMBATTANT;FAIBLE
+Twisted Fate;Dé Pipé, Atouts, Bonne Pioche, Paquet, Destinée;MAGE, TIREUR;MODÉRÉE
+Twitch;Venin Mortel, Embuscade, Dose De Venin, Contamination, Panique;TIREUR;MODÉRÉE
+Urgot;Flammes Purificatrices, Torpille Corrosive, Géhenne, Mépris, Règne De La Terreur;COMBATTANT;ÉLEVÉE
+Varus;Vengeance Incarnée, Flèche Perforante, Carquois Meurtri, Pluie De Flèches, Chaîne Corruptrice;MAGE, TIREUR;MODÉRÉE
+Vayne;Chasseresse Nocturne, Roulade, Carreaux D'argent, Condamnation, Combat Ultime;ASSASSIN, TIREUR;MODÉRÉE
+Veigar;Pouvoir Maléfique Phénoménal, Coup Malin, Matière Noire, Profanation, Explosion Primordiale;MAGE;FAIBLE
+Vex;Malheur Et Désespoir, Mistral Perdant, Lâchez-Moi !, Ténèbres Imminentes, Déferlement D'ombre;MAGE;FAIBLE
+Vi;Coups Fracassants, Brise-Coffre, Bouclier Antichoc, Force Excessive, Marteau-Pilon;COMBATTANT;FAIBLE
+Viego;Assujettissement, Lame Du Roi Déchu, Gueule Spectrale, Chemin Tourmenté, Cœur Brisé;ASSASSIN;MODÉRÉE
+Vladimir;Pacte De Sang, Transfusion, Bain De Sang, Vagues De Sang, Peste Sanguine;MAGE;MODÉRÉE
+Volibear;Tempête Impitoyable, Coup Fulgurant, Folie Mutilatrice, Foudroiement, Tempête Incarnée;TANK, COMBATTANT;FAIBLE
+Warwick;Soif Inextinguible, Dents De La Bête, Traque Sanguinaire, Hurlement Bestial, Contrainte Infinie;COMBATTANT;FAIBLE
+Wukong;Écrasement, Bâton D'or, Guerrier Espiègle, Nimbus, Cyclone;TANK, COMBATTANT;FAIBLE
+Xayah;Plumes Perçantes, Dagues Jumelles, Plumage Mortel, Appel Des Lames, Rafale De Plumes;MAGE, TIREUR;MODÉRÉE
+Xin Zhao;Détermination, Frappe Des Trois Serres, Vent Et Foudre, Charge Audacieuse, Garde Circulaire;TANK, COMBATTANT;FAIBLE
+Yasuo;Voie Du Vagabond, Tempête D'acier, Mur De Vent, Cercle Tranchant, Dernier Soupir;ASSASSIN, COMBATTANT;ÉLEVÉE
+Yone;Voie Du Chasseur, Acier Mortel, Fendoir Spirituel, Libération Spirituelle, Destin Scellé;ASSASSIN;ÉLEVÉE
+Yuumi;Pas Touche, Tête Chat-Sseuse, Félin Pour L'autre !, Zouuu !, Chat-Pitre Final;MAGE, SUPPORT;ÉLEVÉE
+Zed;Mépris Des Faibles, Shuriken-Rasoir, Ombre Vivante, Taillade Des Ombres, Marque De La Mort;ASSASSIN;ÉLEVÉE
+Zeri;Batterie Vivante, Rafale, Laser Électrocuteur, Charge Ionique, Éruption Électrique;TIREUR;MODÉRÉE
+Ziggs;Mèche Courte, Bombe Rebondissante, Charge Explosive, Mines Hexplosives, Méga Bombe Infernale;MAGE;MODÉRÉE
+Zoé;Plus D'étincelles !, Astro-Pong !, Voleuse De Sorts, Bulle Soporifique, Bond Dimensionnel;MAGE;MODÉRÉE
+Zyra;Jardin De Ronces, Épines Funestes, Croissance Incontrôlée, Racines Fixatrices, Ronces Étrangleuses;MAGE;MODÉRÉE

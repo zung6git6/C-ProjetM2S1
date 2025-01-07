@@ -1,7 +1,5 @@
+namespace ChampionDexNameSpace;
 using System.Globalization;
-using System.Text.RegularExpressions;
-using System.Collections.Generic;
-using System.Linq;
 
 public class SearchCommand : Command
 {

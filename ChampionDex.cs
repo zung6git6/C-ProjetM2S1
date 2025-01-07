@@ -1,5 +1,4 @@
-using System;
-using System.Linq;
+namespace ChampionDexNameSpace;
 
 public class ChampionDex
 {
@@ -59,25 +58,6 @@ public class ChampionDex
         return;
     }
 
-    public void SaveJson(string CheminOutput="Data/ScrappedChampions.json")
-    {
-        if (LesChampions == null)
-        {
-            Console.Error.WriteLine("Le ChamionDex est vide. Rien est sauvegardé.");
-            return;
-        }
-        string jsonOutput = System.Text.Json.JsonSerializer.Serialize(LesChampions, new System.Text.Json.JsonSerializerOptions { WriteIndented = true, Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping });
-        File.WriteAllText(CheminOutput, jsonOutput);
-        if (CheminOutput=="Data/ScrappedChampions.json")
-        {
-            Console.WriteLine("Les Champions Scrappés sont sauvegardés dans le fichier Data/ScrappedChampions.json");
-        }
-        else
-        {
-            Console.WriteLine($"Le ChampionDex est sauvegardé dans le fichier {CheminOutput}");
-        }
-    }
-
     public override string ToString()
     {
         if (LesChampions == null)
@@ -126,5 +106,18 @@ public class ChampionDex
                 yield return c;
             }
         }
+    }
+
+    public ChampionDexDto ToDto()
+    {
+        Func<Champion, ChampionDto> lambda = PARAM => PARAM.ToDto();
+        return new ChampionDexDto
+        {
+            // On converti tous les pokémons en leur version DTO
+            _LesChampions = LesChampions
+                .Where(p => p != null)
+                .Select(lambda)
+                .ToList()
+        };
     }
 }

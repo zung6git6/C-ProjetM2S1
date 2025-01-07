@@ -1,3 +1,5 @@
+namespace ChampionDexNameSpace;
+
 public class EndCommand : Command
 {
     public EndCommand(ChampionDex championdex, string[] arguments):base(championdex, arguments) {}

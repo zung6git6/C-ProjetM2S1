@@ -1,9 +1,7 @@
-using System;
+namespace ChampionDexNameSpace;
 using HtmlAgilityPack;
 using System.Text.RegularExpressions;
 using System.Globalization;
-using System.Runtime.CompilerServices;
-using System.Diagnostics.Tracing;
 
 
 public class ScrapeCommand : Command
@@ -139,6 +137,7 @@ public class ScrapeCommand : Command
             // Console.WriteLine(champion);
             // Console.WriteLine();
         }
-        Dex.SaveJson();
+        ChampionDexDto DexDto = Dex.ToDto();
+        DexDto.SaveJson();
     }
 }

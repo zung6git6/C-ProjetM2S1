@@ -1,6 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
+namespace ChampionDexNameSpace;
 using System.Text.Json;
 
 public class LoadCommand : Command
@@ -17,7 +15,7 @@ public class LoadCommand : Command
     {
         if (!EstOnBon)
         {
-            Console.Error.WriteLine("Il n'y a pas l'argument du fichier txt à charger.");
+            Console.Error.WriteLine("Il n'y a pas l'argument du fichier Json à charger.");
             return;
         }
 

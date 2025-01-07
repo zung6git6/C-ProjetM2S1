@@ -1,3 +1,4 @@
+namespace ChampionDexNameSpace;
 public enum Difficulties
 {
     None = 0,

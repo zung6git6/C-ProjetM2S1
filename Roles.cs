@@ -1,3 +1,5 @@
+namespace ChampionDexNameSpace;
+
 [Flags]
 public enum Roles
 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zhongjie/Documents/TAL_M2/Programmation Orientée Objet/Projet/Projet.csproj": {}
+    "/Users/zhongjie/Documents/TAL_M2/Programmation Orientée Objet/C-ProjetM2S1/Projet.csproj": {}
   },
   "projects": {
-    "/Users/zhongjie/Documents/TAL_M2/Programmation Orientée Objet/Projet/Projet.csproj": {
+    "/Users/zhongjie/Documents/TAL_M2/Programmation Orientée Objet/C-ProjetM2S1/Projet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zhongjie/Documents/TAL_M2/Programmation Orientée Objet/Projet/Projet.csproj",
+        "projectUniqueName": "/Users/zhongjie/Documents/TAL_M2/Programmation Orientée Objet/C-ProjetM2S1/Projet.csproj",
         "projectName": "Projet",
-        "projectPath": "/Users/zhongjie/Documents/TAL_M2/Programmation Orientée Objet/Projet/Projet.csproj",
+        "projectPath": "/Users/zhongjie/Documents/TAL_M2/Programmation Orientée Objet/C-ProjetM2S1/Projet.csproj",
         "packagesPath": "/Users/zhongjie/.nuget/packages/",
-        "outputPath": "/Users/zhongjie/Documents/TAL_M2/Programmation Orientée Objet/Projet/obj/",
+        "outputPath": "/Users/zhongjie/Documents/TAL_M2/Programmation Orientée Objet/C-ProjetM2S1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zhongjie/.nuget/NuGet/NuGet.Config"

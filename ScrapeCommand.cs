@@ -46,16 +46,13 @@ public class ScrapeCommand : Command
 
         foreach (string name in lines)
         {
-            // the URL of the target page
             string url = $"https://wildrift.leagueoflegends.com/fr-fr/champions/{name}/";
             
             // Console.WriteLine($"Nom du champion : {name}");
 
             var web = new HtmlWeb();
-            // downloading to the target page and parsing its HTML content
             var document = web.Load(url);
 
-            // Selecting the champion's name
             var championsName = document.DocumentNode.SelectSingleNode("/html/body/div[1]/div/main/div/span[2]/section/div[2]/div[1]/div[1]/div[2]/div/div/div");
             string contentName = "";
             if (championsName != null)
@@ -65,23 +62,19 @@ public class ScrapeCommand : Command
                 // Console.WriteLine(contentName);
             }
 
-            // Selecting all skills
             var skills = document.DocumentNode.SelectNodes("/html/body/div[1]/div/main/div/span[3]/section/div/div[2]/div[1]/div[2]/div/div[1]/ol/li");
             string[] competences = new string[5];
             if (skills != null)
             {
-                int i = 0; // Counter for indexing
+                int i = 0;
                 foreach (var node in skills)
                 {
-                    // Extracting the content of the specific sub-node inside each `li`
                     var contentNode = node.SelectSingleNode("div/div[2]");
                     if (contentNode != null)
                     {
-                        // Decode HTML entities to normal characters
                         string textContent = HtmlEntity.DeEntitize(contentNode.InnerText.Trim());
                         textContent = textInfo.ToTitleCase(textContent.ToLower());
                         competences[i] = textContent;
-                        // Console.WriteLine($"Compétence {i}: {textContent}");
                         i++;
                     }
                 }
@@ -91,7 +84,6 @@ public class ScrapeCommand : Command
                 Console.WriteLine("Aucune compétence trouvée pour le champion.");
             }
 
-            // Selecting the role or roles
             var role = document.DocumentNode.SelectSingleNode("/html/body/div[1]/div/main/div/span[2]/section/div[2]/div[1]/div[2]/div[1]/div/div[2]/p[2]");
             Roles roles = Roles.None;
             if (role != null)
@@ -105,9 +97,6 @@ public class ScrapeCommand : Command
                         if (!Roles.TryParse(oneroleINstring, out Roles onerole)) {Console.WriteLine($"Le rôle {oneroleINstring} est inconnu");}
                         roles |= onerole;
                     }
-                    // Joindre tous les éléments avec ", " comme séparateur
-                    // string unifiedRoles = string.Join(", ", multiRoles);
-                    // Console.WriteLine($"Rôles : {unifiedRoles}");
                 }
                 else
                 {
@@ -121,7 +110,6 @@ public class ScrapeCommand : Command
                 Console.WriteLine("Aucun rôle trouvé pour le champion.");
             }
 
-            // Select the difficulty level
             var difficulty = document.DocumentNode.SelectSingleNode("/html/body/div[1]/div/main/div/span[2]/section/div[2]/div[1]/div[2]/div[2]/div/div[2]/p[2]");
             Difficulties difficultyEnum = Difficulties.None;
             if (difficulty != null)

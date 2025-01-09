@@ -23,7 +23,7 @@ public class SaveTxtCommand : Command
 
         try
         {
-            using (StreamWriter writer = new StreamWriter(path)) // Utilisation de 'using' pour la gestion des ressources
+            using (StreamWriter writer = new StreamWriter(path))
             {
                 ChampionDexDto championdexDto = LesChampions.ToDto();
                 championdexDto.SaveTxt(writer);

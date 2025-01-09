@@ -113,7 +113,6 @@ public class ChampionDex
         Func<Champion, ChampionDto> lambda = PARAM => PARAM.ToDto();
         return new ChampionDexDto
         {
-            // On converti tous les pokémons en leur version DTO
             _LesChampions = LesChampions
                 .Where(p => p != null)
                 .Select(lambda)
